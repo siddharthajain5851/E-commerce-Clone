@@ -1,2 +1,15 @@
-# E-commerce-Clone
- Amazon-Inspired E-commerce Frontend Clone Showcasing UI Design and Layout Skills Using HTML and CSS>
+# E-commerce Website Clone
+
+This project is a frontend clone inspired by Amazon UI.
+
+## Features
+- Navigation bar
+- Product sections
+- Responsive layout
+
+## Technologies Used
+- HTML
+- CSS
+
+## Note
+This project is for learning purposes only and is inspired by Amazon.
